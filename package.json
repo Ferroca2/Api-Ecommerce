@@ -1,0 +1,11 @@
+{
+  "name": "api-ecommerce",
+  "version": "1.0.0",
+  "description": "api basic template for a ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
